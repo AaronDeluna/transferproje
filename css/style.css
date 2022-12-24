@@ -2071,6 +2071,8 @@ fieldset:disabled a.btn {
   pointer-events: none; }
 
 .btn-primary {
+  position: relative;
+  left: 37.5%;
   color: #fff;
   background-color: #007bff;
   border-color: #007bff; }
